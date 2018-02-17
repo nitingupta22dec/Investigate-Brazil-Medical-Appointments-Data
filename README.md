@@ -7,3 +7,9 @@ I have performed the complete data analysis process on this dataset. The process
 - Exploration Phase
 - Drawing Conclusions Phase
 - Communication Phase
+
+Libraries that I've used in the Data Analysis Process: 
+- numpy
+- pandas
+- matplotlib
+- csv
